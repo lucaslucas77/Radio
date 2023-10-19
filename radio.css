@@ -1,0 +1,151 @@
+body {
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,122,29,1) 56%, rgba(252,176,69,1) 100%);
+}
+
+
+/* #titulo {
+    font-family: 'Rock Salt', cursive;    
+    font-size: 250%;
+    height: fit-content;
+    margin-right: 5%;
+} */
+
+.navbar-expand-lg {
+    width: 90%;
+    margin: auto;
+}
+
+.navbar-collapse {
+    font-family: 'Rock Salt', cursive;
+}
+
+/*
+nav {
+    margin: 3% 3%;
+}
+
+.titulo {
+    font-family: 'Rock Salt', cursive;    
+    font-size: 400%;
+    display: inline;
+    margin-right: 5%;
+}
+
+.navBar {
+    display: inline;
+    font-family: 'Rock Salt', cursive;
+}
+
+nav a  {
+    text-decoration: none;
+    color: black;
+    border-radius: 10px;
+    border-bottom: 5px solid rgb(0, 0, 0);
+    border-right: 5px solid rgb(0, 0, 0);
+    margin: 1%;
+}
+*/
+
+
+.carrousel {
+    width: 90%;
+    margin: auto;
+}
+
+.carousel-inner img {
+    max-height: 460px;
+    object-fit: cover;
+}
+
+.carousel-inner{
+    height: 400px;
+    margin: 2% auto;
+    box-shadow: 0 0 20px 10px;
+    border-radius: 15px;
+}
+
+.enVivo {
+    border-radius: 15px;
+    width: 80%;
+    height: 200px;
+    margin: 5% auto;
+    box-shadow: 0 0 20px 10px;
+}
+
+.tituloEnVivo {
+    text-align: center;
+    margin-bottom: 2%;
+}
+
+.parrafoEnVivo {
+    width: 60%;
+    margin: auto;
+    margin-bottom: 5%;
+    font-size: 110%;
+}
+
+.progress {
+    width: 50%;
+    margin: auto;
+}
+
+.contacto {
+    border-radius: 15px;
+    width: 80%;
+    height: 200px;
+    margin: 5% auto;
+    box-shadow: 0 0 20px 10px;
+}
+
+.redes {
+    width: 50px;
+    height: 50px;
+}
+
+.redes:hover {
+    width: 70px;
+    height: 70px;
+}
+
+#redes {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#exampleFormControlTextarea1 {
+    resize: none;
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,122,29,1) 56%, rgba(252,176,69,1) 100%);
+}
+
+
+#exampleFormControlInput1 {
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,122,29,1) 56%, rgba(252,176,69,1) 100%);
+}
+
+footer {
+    width: 60%;
+    height: fit-content;
+    margin: auto;
+}
+
+.tituloFooter {
+    font-family: 'Rock Salt', cursive;    
+    font-size: 250%;
+    text-align: center;
+}
+
+#hr {
+    height: 2px;
+    width: 60%;
+    margin: 3% auto;
+    background-color: black;
+}
+
+#copyRight {
+    text-align: center;
+    
+}
